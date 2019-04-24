@@ -11,7 +11,9 @@ import android.widget.TextView;
 
 public class DescriptionPageForMaintenace extends AppCompatActivity {
 
+    // The name
     String name;
+    // The position
     int pos;
 
     @Override
