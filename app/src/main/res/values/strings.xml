@@ -1,0 +1,293 @@
+<resources>
+    <string name="app_name">Betna</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- Text displayed for fragment maintenance tab -->
+    <string name="maintenance_tab">Maintenance</string>
+
+    <!-- Text displayed for fragment nursing tab -->
+    <string name="nursing_tab">Nursing</string>
+
+    <!-- Text displayed for fragment maintenance view pager -->
+    <!-- Text displayed for electrician icon -->
+    <string name="electrician">Electrician</string>
+
+    <!-- Text displayed for plumber icon -->
+    <string name="plumber">Plumber</string>
+
+    <!-- Text displayed for painter icon -->
+    <string name="painter">Painter</string>
+
+    <!-- Text displayed for carpenter icon -->
+    <string name="carpenter">Carpenter</string>
+
+    <!-- Text displayed for blacksmith icon -->
+    <string name="blacksmith">Blacksmith</string>
+
+    <!-- Text displayed for cleaner icon -->
+    <string name="cleaner">Cleaning</string>
+
+    <!-- Text displayed for flooring icon -->
+    <string name="flooring">Flooring</string>
+
+    <!-- Text displayed for plasterer icon -->
+    <string name="plasterer">Plasterer</string>
+
+    <!-- Text displayed for marble icon -->
+    <string name="marble">Marble</string>
+
+    <!-- Text displayed for gypsum board icon -->
+    <string name="gypsum_board">Gypsum board</string>
+
+    <!-- Text displayed for wood sprayer icon -->
+    <string name="wood_sprayer">Wood sprayer</string>
+
+    <!-- Text displayed for Alumital icon -->
+    <string name="alumital">Alumital</string>
+
+    <!-- the text displayed for air conditioner icon -->
+    <string name="air_conditioner">Air condition</string>
+
+    <!-- Text displayed for pest control icon -->
+    <string name="pest_control">Pest control</string>
+
+    <!-- Text displayed for packer mover icon -->
+    <string name="packer_mover">Packers and movers</string>
+
+    <!-- Text displayed for home security icon -->
+    <string name="home_security">Home security</string>
+
+    <!-- Text displayed for finishing works icon -->
+    <string name="finishing_works">Finishing works</string>
+
+    <!--
+    Text displayed for fragment nursing view pager & Text displayed for description page of nursing
+    -->
+    <string name="nursing_description">
+        Our services include all health care requirements, home nursing, home care, elder care, child care,
+        newborn care at home, and home nursing. We also doing physiotherapy sessions for the elderly,
+        brain trauma, muscle fatigue, postoperative and rehabilitation
+        \n\nWe provide the suitable care for the patient according to the instructions of the
+        doctor in terms of doses, dates, type of treatment and method of implementation of treatment
+        without any change, only after consulting the doctor and received orders doctor in a clear
+        manner
+        \n\nWe have a specialized nursing team of both sexes (males and females) as well as various
+        technical categories of nursing specialists and nursing assistants
+    </string>
+
+    <!-- Text displayed in description page of a maintenance service  -->
+    <!-- Text displayed in description page of electrician service  -->
+    <string name="electrician_description">
+        We are doing all electrical maintenance and installations works.
+        \nThis service is provided for (houses, factories, companies, shops, etc.)
+    </string>
+
+    <!-- Text displayed in description page of plumber service  -->
+    <string name="plumber_description">
+        We are doing all plumbing, sanitary installations &amp;
+        maintenance and finishing.\nThis service is provided for
+        (homes, companies, factories, shops, etc.)
+    </string>
+
+    <!-- Text displayed in description page of painter service  -->
+    <string name="painter_description">
+        We are doing all modern paints and decoration works with
+        innovative and creative designs by professionals and skilled technicians.\nThis service is
+        provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of carpenter service  -->
+    <string name="carpenter_description">
+        We are doing all works related to the installation and repair of carpentry work This
+        service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of blacksmith service  -->
+    <string name="blacksmith_description">
+        We are installing iron gates, handrail system to stairs, iron guard system, welding and
+        cutting works\', generally all blacksmithing jobs applying by professional technicians\' team.
+    </string>
+
+    <!-- Text displayed in description page of cleaner service  -->
+    <string name="cleaner_description">
+        We are doing all special cleaning works:
+        \n- Internal cleanliness works
+        \n- Landscape sections and garden cleaning
+        \n- Cleaning building facades
+        \n- Others&#8230;
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+        the execution by new dream company
+    </string>
+
+    <!-- Text displayed in description page of flooring service  -->
+    <string name="flooring_description">
+        are doing all installation works for floors
+        (ceramics, marble, Porcelain, parquet&#8230; etc.)
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of plasterer service  -->
+    <string name="plasterer_description">
+        We are doing mortar and gypsum works with the best modern and creative method.
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of marble service  -->
+    <string name="marble_description">
+        We are doing all marble installation works (kitchens, stairs, floors &#8230; etc.)
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of gypsum board service  -->
+    <string name="gypsum_board_description">
+        We are doing all gypsum board works with the best modern designs by
+        skilled specialists technicians
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of wood sprayer service  -->
+    <string name="wood_sprayer_description">
+        We are doing all wooden painting &amp; furniture works
+    </string>
+
+    <!-- Text displayed in description page of alumital service  -->
+    <string name="alumital_description">
+        Installation all types of Alumital (doors - windows - balconies - kitchens&#8230; etc.)
+        \nThis service is provided for (houses, companies, factories, shops, etc.)
+    </string>
+
+    <!-- Text displayed in description page of air conditioner service  -->
+    <string name="air_conditioner_description">
+        AC has become one of the most important appliances in our lifestyle today.
+        \nIn many cases, it\'s only means to keep us from going insane in summers,
+        Get your AC repaired by the best technicians today.
+    </string>
+
+    <!-- Text displayed in description page of pest control service  -->
+    <string name="pest_control_description">
+        We are making pest control for (rodents, cockroaches, bugs, ant, sous, flying insects,
+        stray animals, and all kinds of public health pests) by a team trained to pest control
+        methods and public health materials authorized by the Ministry of Health.
+        The service is provided to (houses - industrial sector - hospitals - hotels - restaurants
+        - companies - administrative offices .... etc.)
+        Guarantee of one-year service and all follow-up works for free
+    </string>
+
+    <!-- Text displayed in description page of packer mover service  -->
+    <string name="packer_mover_description">
+        We are Works to transport furniture to any place in Egypt by specialized labors.
+    </string>
+
+    <!-- Text displayed in description page of home security service  -->
+    <string name="home_security_description">
+        We are ready to install security cameras according to customer requirements
+        \nThis service is provided for (houses, companies, factories, shops&#8230; etc.)
+    </string>
+
+    <!-- Text displayed in description page of finishing works service  -->
+    <string name="finishing_works_description">
+        We are doing complete finishing works (apartment, villa, shop, companies, etc.).
+        \nThe key is delivered in time according to the customer\'s requirements as agreed with us
+    </string>
+
+    <!-- Fixed text in maintenance description page  -->
+    <string name="fixed_text">
+        Inspection for <b><font fgcolor="#F44336">Free</font></b>
+        \nthe service will be in progress within <b><font fgcolor="#F44336">24</font></b> hours
+    </string>
+
+    <!-- Text displayed for send order button in both maintenance and nursing fragment -->
+    <string name="start_button">Service request</string>
+
+    <!-- Text displayed for submit button in both maintenance and nursing send order activity -->
+    <string name="submit_button">Submit</string>
+
+    <!-- Text displayed to prompt the user to enter name -->
+    <string name="prompting_to_type_name">Enter your name</string>
+
+    <!-- Text displayed to prompt the user to enter phone number -->
+    <string name="prompting_to_type_phone_number">Enter your phone number</string>
+
+    <!-- Text displayed to prompt the user to choose city or area -->
+    <string name="prompting_to_choose_area">Area</string>
+
+    <!-- Text displayed to prompt the user to enter address -->
+    <string name="prompting_to_type_address">Enter your address</string>
+
+    <!--
+    Text displayed to prompt the user to enter information about the fault or the service
+    -->
+    <string name="prompting_to_type_information">
+        Give us some information about the required service
+    </string>
+
+    <!--  Text header the will displayed in activity send order for nursing -->
+    <string name="nursing_service_header">Nursing Service</string>
+
+    <!-- Text displayed to prompt the user to choose patient gender -->
+    <string name="prompting_to_choose_patient_gender">Patient gender</string>
+
+    <!-- Text displayed to prompt the user to enter number of  days for nursing service -->
+    <string name="prompting_to_type_number_of_days">
+        Enter number of days you want for nursing service
+    </string>
+
+    <!-- Cities names for spinner area -->
+    <string-array name="cities_names">
+        <item>Giza</item>
+        <item>El haram</item>
+        <item>Faisl</item>
+        <item>Hdayek el ahram</item>
+        <item>Mohandseen</item>
+        <item>Doqqi</item>
+        <item>El agouza</item>
+        <item>Zamalek</item>
+        <item>6 October</item>
+        <item>El sheikh zayed</item>
+        <item>Abbassia</item>
+        <item>Obour</item>
+        <item>El tagamoa</item>
+        <item>Maadi</item>
+        <item>Mokattam</item>
+        <item>Wust el balad</item>
+        <item>Nasr city</item>
+        <item>Misr el gedida</item>
+        <item>Hadayek el kobba</item>
+        <item>Helwan</item>
+        <item>Ain shams</item>
+        <item>Shobra</item>
+        <item>El shrouk</item>
+        <item>El rehab</item>
+        <item>Madinaty</item>
+        <item>New cairo</item>
+    </string-array>
+
+    <!-- Patient gender for spinner gender -->
+    <string-array name="patient_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!-- Navigation drawer icons -->
+    <string name="language_setting">Language setting</string>
+    <string name="call_us">Call us</string>
+    <string name="send_mail">Send mail</string>
+
+    <!-- Edittext error hint -->
+    <string name="name_error">Type your name</string>
+    <string name="phone_number_error">Enter your phone number</string>
+    <string name="empty_field_toast">You should enter your name and phone number</string>
+
+    <!-- Dialog contents -->
+    <string name="sending_order">Sending order....</string>
+    <string name="please_wait">Please wait</string>
+    <string name="order_sent">Order sent\nthe service will be in progress within 24 hours</string>
+    <string name="no_service_title">service not available yet</string>
+    <string name="no_service">
+        Sorry this service is stopped now!
+        \nit will be available soon try others services
+    </string>
+    <string name="no_internet">No internet connection try again</string>
+
+</resources>

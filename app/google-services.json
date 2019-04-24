@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310161835713",
+    "firebase_url": "https://betna-ab566.firebaseio.com",
+    "project_id": "betna-ab566",
+    "storage_bucket": "betna-ab566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310161835713:android:ec70547f5016a6fa",
+        "android_client_info": {
+          "package_name": "morano.pro.ahmedmohamed.betna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310161835713-he6gmn3icqjjvci2knjpk5eu3g2le9lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "morano.pro.ahmedmohamed.betna",
+            "certificate_hash": "0fa5c7492d6c74fbbacbdfc6f9219afd9ab892f9"
+          }
+        },
+        {
+          "client_id": "310161835713-tq8muqmkn2ef00q1h4hc17nkj4p9fa0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1T6I2BWKbVRaEZ5z55mdq9eVkIdj6Q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310161835713-tq8muqmkn2ef00q1h4hc17nkj4p9fa0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
